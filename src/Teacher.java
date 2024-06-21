@@ -3,7 +3,7 @@ public class Teacher {
     String email;
     int age;
 
-    public String teach(){
+    public void  teach(){
         System.out.println("Teaching Student");
     }
 }
